@@ -246,11 +246,9 @@ button {
     padding-left: 32px;
     padding-right: 32px;
   }
-
   .hide-mobile-tablet {
     display: none;
   }
-
   .only-mobile-tablet {
     display: block;
   }
@@ -260,11 +258,9 @@ button {
     padding-left: 16px;
     padding-right: 16px;
   }
-
   .desk-visible {
     display: none;
   }
-
   .only-mobile {
     display: block;
   }
